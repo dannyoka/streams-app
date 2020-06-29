@@ -1,0 +1,63 @@
+{
+  "streams": [
+    {
+      "title": "my stream",
+      "description": "this is my description",
+      "id": 1
+    },
+    {
+      "title": "my stream",
+      "description": "this is my description",
+      "id": 2
+    },
+    {
+      "title": "second stream",
+      "description": "check it out!",
+      "id": 3
+    },
+    {
+      "title": "i created this stream",
+      "description": "This was made by me!",
+      "userId": "103393634541509815931",
+      "id": 4
+    },
+    {
+      "title": "another stream",
+      "description": "yes let's check this out",
+      "userId": "103393634541509815931",
+      "id": 5
+    },
+    {
+      "title": "Unexpected Behavior",
+      "description": "Didn't expect that!",
+      "userId": "103393634541509815931",
+      "id": 6
+    },
+    {
+      "title": "new title",
+      "description": "let's see what happens?",
+      "userId": "103393634541509815931",
+      "id": 7
+    },
+    {
+      "title": "made with python",
+      "description": "python-description",
+      "id": 8
+    },
+    {
+      "title": "second python stream",
+      "description": "this is my second python stream",
+      "id": 9
+    },
+    {
+      "title": "python -ipad",
+      "description": "made this with termius",
+      "id": 10
+    },
+    {
+      "title": "new stream that i just made up",
+      "description": "this is the description that goes with it",
+      "id": 11
+    }
+  ]
+}
